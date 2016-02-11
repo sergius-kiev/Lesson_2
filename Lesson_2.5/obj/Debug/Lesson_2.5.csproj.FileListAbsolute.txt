@@ -1,0 +1,6 @@
+C:\Users\Sergiy\Documents\Visual Studio 2013\Projects\Lesson_2\Lesson_2.5\bin\Debug\Lesson_2.5.exe.config
+C:\Users\Sergiy\Documents\Visual Studio 2013\Projects\Lesson_2\Lesson_2.5\obj\Debug\Lesson_2.5.csprojResolveAssemblyReference.cache
+C:\Users\Sergiy\Documents\Visual Studio 2013\Projects\Lesson_2\Lesson_2.5\bin\Debug\Lesson_2.5.exe
+C:\Users\Sergiy\Documents\Visual Studio 2013\Projects\Lesson_2\Lesson_2.5\bin\Debug\Lesson_2.5.pdb
+C:\Users\Sergiy\Documents\Visual Studio 2013\Projects\Lesson_2\Lesson_2.5\obj\Debug\Lesson_2.5.exe
+C:\Users\Sergiy\Documents\Visual Studio 2013\Projects\Lesson_2\Lesson_2.5\obj\Debug\Lesson_2.5.pdb
